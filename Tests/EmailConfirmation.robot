@@ -1,3 +1,4 @@
+*** Settings ***
 Library             SeleniumLibrary
 Library             ../PageObjects/Library/EmailParserLib.py
 
